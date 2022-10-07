@@ -7,7 +7,7 @@ XCOPY "lib\64bit\*" .
 GOTO END
 
 :32BIT
-XCOPY "lib\32bit\* .
+XCOPY "lib\32bit\*" .
 GOTO END
 
 :END
